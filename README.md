@@ -48,8 +48,9 @@ Open browser and visit:
 http://127.0.0.1:5000
 
 Enter required details and click Generate Mashup.
+'''
 
-✅ Input Conditions
+-> Input Conditions
 
 Number of videos must be greater than 10
 
@@ -59,7 +60,7 @@ Duration must be greater than 20 seconds
 
 A single merged mashup audio file in MP3 format is generated in the project directory.
 
-ℹ Note
+-> Note
 
 Audio (.mp3) files are ignored using .gitignore and are not uploaded to GitHub.
 
